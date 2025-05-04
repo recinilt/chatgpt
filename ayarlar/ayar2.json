@@ -1,0 +1,21 @@
+[
+    {
+        "tur": "click",
+        "x": 1479,
+        "y": 893,
+        "bekle": 2.0
+    },
+    {
+        "tur": "yaz",
+        "metin": "merhabalar, nas\u0131ls\u0131n? \u00e7\u00f6\u015f\u011f\u00fc\u0130\u0131",
+        "bekle": 2.0
+    },
+    {
+        "tur": "enter",
+        "bekle": 2.0
+    },
+    {
+        "tur": "bekle",
+        "bekle": 10.0
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "tur": "click",
+        "x": 1418,
+        "y": 883,
+        "bekle": 3.0
+    },
+    {
+        "tur": "yaz",
+        "metin": "merhaba. nasilsin?",
+        "bekle": 10.0
+    },
+    {
+        "tur": "enter",
+        "bekle": 20.0
+    },
+    {
+        "tur": "bekle",
+        "bekle": 5.0
+    }
+]
