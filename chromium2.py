@@ -10,7 +10,7 @@ input("✍️ ChatGPT yüklensin ve hazır olunca ENTER'a bas: ")
 yazi_kutusu_x = 1230
 yazi_kutusu_y = 894
 
-# Otomasyon döngüsü
+# Otomasyon döngüsü 
 while True:
     pyautogui.click(x=yazi_kutusu_x, y=yazi_kutusu_y)  # Yazı alanına tıkla
     time.sleep(0.3)
