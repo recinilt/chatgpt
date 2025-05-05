@@ -1,0 +1,41 @@
+1.	Location: Post-apocalyptic Wasteland. görseli oluştur.
+2.	Venue: Snowy Village. görseli oluştur.
+3.	Venue: Sunny Meadow. görseli oluştur.
+4.	Venue: Flower Field. görseli oluştur.
+5.	Venue: Riverbank. görseli oluştur.
+6.	Venue: Misty Swamp. görseli oluştur.
+7.	Venue: Sunken Shipwreck. görseli oluştur.
+8.	Venue: City Rooftop. görseli oluştur.
+9.	Venue: Abandoned Amusement Park. görseli oluştur.
+10.	Venue: Spaceship Cockpit. görseli oluştur.
+11.	Venue: Ice Cave. görseli oluştur.
+12.	Venue: Ancient Arena. görseli oluştur.
+13.	Venue: Royal Palace. görseli oluştur.
+14.	Location: Dungeon. görseli oluştur.
+15.	Venue: Secret Garden. görseli oluştur.
+16.	Venue: Modern Art Gallery. görseli oluştur.
+17.	Venue: Airport (Airport Terminal). görseli oluştur.
+18.	Venue: Train Station. görseli oluştur.
+19.	Venue: Wizard Academy. görseli oluştur.
+20.	Venue: Time Travel Lab. görseli oluştur.
+21.	Venue: Lost Civilization's Center. görseli oluştur.
+22.	Venue: Wild West Town. görseli oluştur.
+23.	Venue: Gothic Cathedral. görseli oluştur.
+24.	Venue: Subconscious Realm. görseli oluştur.
+25.	Venue: Massive Library. görseli oluştur.
+26.	Venue: Hotel of Dreams (Dream Hotel). görseli oluştur.
+27.	Venue: Giant Clockwork Interior. görseli oluştur.
+28.	Venue: Inside a Flying Train. görseli oluştur.
+29.	Venue: Floating City on Water. görseli oluştur.
+30.	Venue: Inverted World. görseli oluştur.
+31.	Venue: Valley of Giant Plants. görseli oluştur.
+32.	Venue: Ghost Town. görseli oluştur.
+33.	Venue: Sci-fi Subway System. görseli oluştur.
+34.	Venue: Plasma Temple. görseli oluştur.
+35.	Venue: Mirror Maze. görseli oluştur.
+36.	Venue: Color-changing Forest. görseli oluştur.
+37.	Venue: Underground Kingdom. görseli oluştur.
+38.	Venue: Skywalk Between Skyscrapers. görseli oluştur.
+39.	Venue: Frozen Schoolyard. görseli oluştur.
+40.	Venue: Lost Island. görseli oluştur.
+41.	Venue: Colossal Shadow Crater. görseli oluştur.
