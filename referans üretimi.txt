@@ -1,0 +1,3 @@
+elimde şöyle bir prompt listesi var. bu ayrı ayrı promptlarla resimlerde ne gibi farklılıklar oluyor, onu net görmek istiyorum. bu liste için, bir temel, Extreme Wide Shot, değişken, bu promptlara uyarlanabilir bir referans görsel üret.
+
+elimde şöyle bir prompt listesi var. bu ayrı ayrı promptlarla resimlerde ne gibi farklılıklar oluyor, onu net görmek istiyorum. bu liste için, bir temel, kısa, değişken, bu promptlara uyarlanabilir bir temel prompt üret.
