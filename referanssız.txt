@@ -1,1 +1,3 @@
+elimde şöyle bir prompt listesi var. bu promptlarla resimlerde ne gibi farklılıklar oluyor, onu net görmek istiyorum. bu liste için, bir temel kısa değişken, bu promptlara uyarlanabilir bir temel prompta veya referans görsele ihtiyaç var mı, varsa nedir? 
+
 kitap oluşturacağım, farklı komutların resme nasıl etkidiğini net görmek istiyorum. aşağıdaki promptları satır satır, MADDE MADDE, sırasıyla tek tek sor "oluşturayım mı" diye, ben de evet diyeyim. sen de  görseli oluşturacaksın. her oluşturduğun resimden sonra, sıradaki şu görseli oluşturayım mı diye sor. anlaştık mı? sırayı sakın atlama. ve de resimler birbirinden bağımsız olsun, sadece prompt'u dikkate al. ve de klasörüne kaydet, en sonunda toplu olarak zip dosyası olarak isteyeceğim.
