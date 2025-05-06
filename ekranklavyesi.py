@@ -2,7 +2,7 @@ import pyautogui
 import time
 import json
 import os
-import keyboard  # Türkçe karakter ve tuş kombinasyonları için
+import keyboard
 
 islemler = []
 
@@ -12,6 +12,21 @@ def koordinat_al():
     x, y = pyautogui.position()
     print(f"✅ Alınan koordinatlar: {x}, {y}")
     return x, y
+
+def float_input(soru):
+    while True:
+        cevap = input(soru).strip()
+        try:
+            return float(cevap)
+        except ValueError:
+            print("⚠️ Lütfen geçerli bir sayı girin. Örneğin: 1, 2.5, 0.7")
+
+def int_input(soru):
+    while True:
+        cevap = input(soru).strip()
+        if cevap.isdigit():
+            return int(cevap)
+        print("⚠️ Lütfen geçerli bir tamsayı girin.")
 
 def islem_ekle():
     while True:
@@ -85,16 +100,12 @@ def islem_ekle():
                     for e in events:
                         if e.event_type == "down" and e.name not in combo:
                             combo.append(e.name)
-
                     if not combo:
                         print("⚠️ Geçerli tuş kombinasyonu algılanmadı.")
                         continue
-
-                    # CTRL+C engeli
                     if "ctrl" in combo and "c" in combo:
                         print("⚠️ 'ctrl+c' kombinasyonu sistemde çıkışı tetikler, kullanılamaz.")
                         continue
-
                     kombinasyon_str = "+".join(combo)
                 else:
                     print("⚠️ Geçerli bir seçim yapılmadı.")
@@ -103,27 +114,21 @@ def islem_ekle():
                 print("⚠️ Sayı girmelisin.")
                 continue
 
+            tekrar = int_input(f"'{kombinasyon_str}' kaç kez basılsın?: ")
             bekle = float_input(f"'{kombinasyon_str}' kombinasyonundan sonra kaç saniye beklensin?: ")
 
             islemler.append({
                 "tur": "kombinasyon",
                 "kombinasyon": kombinasyon_str,
+                "tekrar": tekrar,
                 "bekle": bekle
             })
-            print(f"✅ Eklendi: {kombinasyon_str}")
+            print(f"✅ Eklendi: {kombinasyon_str} x{tekrar}")
 
         elif secim == "5":
             break
         else:
             print("⚠️ Geçersiz seçim. Tekrar deneyin.")
-
-def float_input(soru):
-    while True:
-        cevap = input(soru).strip()
-        try:
-            return float(cevap)
-        except ValueError:
-            print("⚠️ Lütfen geçerli bir sayı girin. Örneğin: 1, 2.5, 0.7")
 
 def islemleri_kaydet():
     ayar_adi = input("💾 Bu ayarı hangi isimle kaydetmek istersin?: ").strip()
@@ -172,7 +177,9 @@ def islemleri_baslat():
                 pyautogui.press("enter")
             elif islem["tur"] == "kombinasyon":
                 try:
-                    keyboard.press_and_release(islem["kombinasyon"])
+                    for _ in range(islem.get("tekrar", 1)):
+                        keyboard.press_and_release(islem["kombinasyon"])
+                        time.sleep(0.05)
                 except Exception as e:
                     print(f"⚠️ Tuş kombinasyonu gönderilemedi: {e}")
             elif islem["tur"] == "bekle":
