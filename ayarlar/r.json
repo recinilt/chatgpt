@@ -1,0 +1,23 @@
+[
+    {
+        "tur": "click",
+        "x": 872,
+        "y": 348,
+        "bekle": 2.0
+    },
+    {
+        "tur": "kombinasyon",
+        "kombinasyon": "ctrl+c",
+        "bekle": 2.0
+    },
+    {
+        "tur": "kombinasyon",
+        "kombinasyon": "ctrl+a",
+        "bekle": 2.0
+    },
+    {
+        "tur": "kombinasyon",
+        "kombinasyon": "delete",
+        "bekle": 2.0
+    }
+]

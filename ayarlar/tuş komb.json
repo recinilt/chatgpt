@@ -1,0 +1,18 @@
+[
+    {
+        "tur": "click",
+        "x": 673,
+        "y": 376,
+        "bekle": 2.0
+    },
+    {
+        "tur": "kombinasyon",
+        "kombinasyon": "",
+        "bekle": 2.0
+    },
+    {
+        "tur": "kombinasyon",
+        "kombinasyon": "\u0001",
+        "bekle": 2.0
+    }
+]

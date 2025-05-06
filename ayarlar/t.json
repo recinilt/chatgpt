@@ -1,0 +1,13 @@
+[
+    {
+        "tur": "click",
+        "x": 869,
+        "y": 499,
+        "bekle": 2.0
+    },
+    {
+        "tur": "kombinasyon",
+        "kombinasyon": "ctrl+a",
+        "bekle": 2.0
+    }
+]
