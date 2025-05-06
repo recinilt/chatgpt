@@ -1,3 +1,9 @@
 bu listedeki promtlar ile, resmin nasıl değiştiğini görmek istiyorum. kitap oluşturacağım, farklı komutların resme nasıl etkidiğini net görmek istiyorum. bu promptları satır satır tek tek sor "oluşturayım mı" diye, evet diyeyim. sen de bu listedeki sıradaki prompt ile hiperrealistik tarzda görseli oluşturacaksın. her oluşturduğun resimden sonra resmi kaydet, ismini, prompttaki gibi ama  :/\ ... gibi dosya ismi olamayacak işaretleri tire (-) ile değiştirerek değiştir (mesela "35-Fictional Physics & Alternate Reality Rules- Nature operating by mechanical laws.png" gibi.). ve de listedeki prompt ile dosya ismi aynı mı diye kontrol et. ve de png dosya ismi ile aynı isimde olacak şekilde zip'le ve bana sun. 
 sonra da, sıradaki promptu kastederek, sıradaki şu görseli oluşturayım mı diye sor. ben de sıradaki prompta geç deyim, görseli oluştur. anlaştık mı?
 bu isteklerimin hepsini adım adım yapıp yapmayacağını 3 kez kontrol et. unutma, resmi oluşturur oluşturmaz anlattığım şekilde oluşturduğun zip dosyasını sunacaksın.
+
+
+
+
+
+şimdi, tüm bu görselleri, yeni değiştirilmiş güncel isimleriyle bir zip dosyasında sunar mısın
