@@ -6,4 +6,4 @@ bu isteklerimin hepsini adım adım yapıp yapmayacağını 3 kez kontrol et. un
 
 
 
-şimdi, tüm bu görselleri, yeni değiştirilmiş güncel isimleriyle bir zip dosyasında sunar mısın
+şimdi, tüm bu görselleri, yeni değiştirilmiş güncel numaraları ve isimleriyle birlikte bir zip dosyasında sunar mısın? yapabildiğini 2 kez kontrol et. eğer resimler kayıpsa, görselleri ben görebiliyoru sayfada yukarı çıktıkça, bu görünenleri, listedeki numaraları ve isimleri ile isimlendirip zip dosyası olarak sunabilir misin? 2 kez kontrol et yakalayıp yakalayamadığını.
