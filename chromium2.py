@@ -14,7 +14,8 @@ yazi_kutusu_y = 894
 while True:
     pyautogui.click(x=yazi_kutusu_x, y=yazi_kutusu_y)  # Yazı alanına tıkla
     time.sleep(0.3)
-    pyautogui.write(" Referans resim + Temel Prompt + siradaki prompt ile gorseli olustur. ", interval=0.05)
+    pyautogui.write(" siradaki prompt ile gorseli olustur. ", interval=0.05)
     pyautogui.press("enter")
     print("✅ Komut gönderildi")
     time.sleep(150)
+ 
