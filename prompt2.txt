@@ -1,0 +1,9 @@
+
+temel prompt: " hiperrealistik tarzda. extreme wide shot. karakterin tüm bedeni görünecek şekilde. 1:1 ebatında. telif hakkı içermeyecek şekilde uyarla. "
+
+1- temel prompt + listedeki sıradaki prompt ile görseli oluştur.
+2- resmin kaydedildiğini, dosya ismini değiştirmeden, teyit et. (kaydedilmemişse, sorunu araştır, çöz, ve görseli yeniden oluştur, kaydet. kaydedilene kadar sorunu çözmeye ve görseli oluşturmaya devam et.)
+3- "temel prompt + listedeki sıradaki prompt"u oluşturayım mı diye sor, taa ki listedeki promptlar sırasıyla tamamlanana dek.
+
+
+tüm bu kaydettiğin 18 .png'yi, listedeki numaralarıyla birlikte prompt ismi olarak ismi değiştir ve bir zip dosyasında sun.

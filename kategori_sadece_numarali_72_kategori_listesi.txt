@@ -1,0 +1,72 @@
+1- Görsel Tarzı
+2- Kompozisyon
+3- Atmosfer
+4- Mekan
+5- Karakter Özellikleri
+6- Duygu
+7- Kıyafet Stili
+8- Işıklandırma
+9- Format
+10- Efekt
+11- Zaman ve Mevsim
+12- Sanatsal Teknik
+13- Arka Plan Stili
+14- Renk Paleti
+15- Arka Plan Teması
+16- Sanat Akımı / Üslubu
+17- Hikaye Unsuru
+18- Nesneler / Eşyalar
+19- Yüz İfadesi Detayı
+20- Ses / Hareket İfadesi
+21- Çevre ile Etkileşim
+22- Katmanlama ve Derinlik Efekti
+23- Animasyon Tarzı
+24- Pozisyon
+25- Bakış Yönü
+26- Kamera Açısı
+27- Malzeme / Yüzey Dokusu
+28- Görsel Tarzı (Ek)
+29- Kompozisyon (Ek)
+30- Atmosfer (Ek)
+31- Mekan (Ek)
+32- Karakter Özellikleri (Ek)
+33- Duygu (Ek)
+34- Kıyafet Stili (Ek)
+35- Işıklandırma (Ek)
+36- Format (Ek)
+37- Efekt (Ek)
+38- Zaman ve Mevsim (Ek)
+39- Sanatsal Teknik (Ek)
+40- Arka Plan Stili (Ek)
+41- Renk Paleti (Ek)
+42- Arka Plan Teması (Ek)
+43- Sanat Akımı / Üslubu (Ek)
+44- Hikaye Unsuru (Ek)
+45- Nesneler / Eşyalar (Ek)
+46- Yüz İfadesi Detayı (Ek)
+47- Ses / Hareket İfadesi (Ek)
+48- Çevre ile Etkileşim (Ek)
+49- Katmanlama ve Derinlik Efekti (Ek)
+50- Animasyon Tarzı (Ek)
+51- Pozisyon (Ek)
+52- Bakış Yönü (Ek)
+53- Kamera Açısı (Ek)
+54- Malzeme / Yüzey Dokusu (Ek)
+55- Arka Plan Biçimi
+56- İç Mekan Detayları
+57- Dış Mekan Detayları
+58- Geçiş Efektleri
+59- Hareket Efektleri
+60- Ritim ve Zamanlama
+61- Çoklu Karakter Etkileşimi
+62- Hikaye İlerlemesi
+63- Renk Geçiş Efektleri
+64- Sahne Duygusu
+65- Sahne Ritmi
+66- Ön Plan Etkileri
+67- Arka Plan Hareketi
+68- Görsel Metaforlar
+69- İlgi Odağı
+70- Zemin Özellikleri
+71- Çerçeveleme
+72- Sahne Yapısı
