@@ -12,35 +12,82 @@ yazi_kutusu_x = 1449
 yazi_kutusu_y = 981
 
 # Temel prompt
-temel_prompt = "  "
+temel_prompt = " 1:1 ebatında. "
 
 # Çok satırlı prompt listesi
 raw_prompts = '''
-48. Create a Mirror Symmetry composition image with the character’s head clearly visible.
-49. Create a Light-source Centered composition image with the character’s head clearly visible.
-50. Create a Twisted Composition image with the character’s head clearly visible.
-51. Create a Forced Perspective composition image with the character’s head clearly visible.
-52. Create a Reflection-based Composition image with the character’s head clearly visible.
-53. Create a Shadow-centered Composition image with the character’s head clearly visible.
-54. Create a Stepped Arrangement composition image with the character’s head clearly visible.
-55. Create a Chaotic Layout composition image with the character’s head clearly visible.
-56. Create a Radiating from Center composition image with the character’s head clearly visible.
-57. Create a Circular Composition image with the character’s head clearly visible.
-58. Create a Exploding Layout composition image with the character’s head clearly visible.
-59. Create a Intersecting Lines composition image with the character’s head clearly visible.
-60. Create a Triangular Composition image with the character’s head clearly visible.
-61. Create a Inverted Triangle Composition image with the character’s head clearly visible.
-62. Create a Grid Composition image with the character’s head clearly visible.
-63. Create a Chaotic Symmetry composition image with the character’s head clearly visible.
-64. Create a Depth via Shading composition image with the character’s head clearly visible.
-65. Create a Transition Between Layers (Layer Transition Focused) composition image with the character’s head clearly visible.
-66. Create a Blended Background Composition image with the character’s head clearly visible.
-67. Create a Isolated Subject Layout image with the character’s head clearly visible.
-68. Create a Eye-guiding Flow composition image with the character’s head clearly visible.
-69. Create a Three-layer Visual Hierarchy composition image with the character’s head clearly visible.
-70. Create a Motion-directional Layout image with the character’s head clearly visible.
-71. Create a Composition with Warped Perspective Layout image with the character’s head clearly visible.
-72. Create a Staged Theatrical Composition image with the character’s head clearly visible.
+1. Emotion Happy. görseli oluştur.
+2. Emotion Sad (Sad). görseli oluştur.
+3. Emotion Angry. görseli oluştur.
+4. Emotion Fearful. görseli oluştur.
+5. Emotion Surprised. görseli oluştur.
+6. Emotion Disgusted. görseli oluştur.
+7. Emotion Confused. görseli oluştur.
+8. Emotion Excited. görseli oluştur.
+9. Emotion Lonely. görseli oluştur.
+10. Emotion Hopeful. görseli oluştur.
+11. Emotion Depressed. görseli oluştur.
+12. Emotion Melancholic. görseli oluştur.
+13. Emotion Romantic. görseli oluştur.
+14. Emotion Peaceful. görseli oluştur.
+15. Emotion Calm. görseli oluştur.
+16. Emotion Joyful. görseli oluştur.
+17. Emotion Satisfied (Content). görseli oluştur.
+18. Emotion Energetic. görseli oluştur.
+19. Emotion Playful. görseli oluştur.
+20. Emotion Anxious. görseli oluştur.
+21. Emotion Terrified. görseli oluştur.
+22. Emotion Grieving. görseli oluştur.
+23. Emotion Optimistic. görseli oluştur.
+24. Emotion Pessimistic. görseli oluştur.
+25. Emotion Nostalgic. görseli oluştur.
+26. Emotion Frustrated. görseli oluştur.
+27. Emotion Amazed. görseli oluştur.
+28. Emotion Proud. görseli oluştur.
+29. Emotion Ashamed (Ashamed). görseli oluştur.
+30. Emotion Bored. görseli oluştur.
+31. Emotion Curious. görseli oluştur.
+32. Emotion Courageous. görseli oluştur.
+33. Emotion Jealous. görseli oluştur.
+34. Emotion Embarrassed. görseli oluştur.
+35. Emotion Grateful. görseli oluştur.
+36. Emotion Feeling Guilty. görseli oluştur.
+37. Emotion Serene. görseli oluştur.
+38. Emotion Silly. görseli oluştur.
+39. Emotion Determined. görseli oluştur.
+40. Emotion Relaxed. görseli oluştur.
+41. Emotion Panicked. görseli oluştur.
+42. Emotion Inner Peace. görseli oluştur.
+43. Emotion Distracted. görseli oluştur.
+44. Emotion Uneasy. görseli oluştur.
+45. Emotion Disappointed. görseli oluştur.
+46. Emotion Inspired. görseli oluştur.
+47. Emotion Silent Rage. görseli oluştur.
+48. Emotion Ecstatic. görseli oluştur.
+49. Emotion Touched. görseli oluştur.
+50. Emotion Cool-headed. görseli oluştur.
+51. Emotion Confident. görseli oluştur.
+52. Emotion Introverted. görseli oluştur.
+53. Emotion Extroverted. görseli oluştur.
+54. Emotion Alert and Vigilant (Alert). görseli oluştur.
+55. Emotion Drowsy. görseli oluştur.
+56. Feeling Numb. görseli oluştur.
+57. Emotion Mixture of Fear and Curiosity (Fearful Curiosity). görseli oluştur.
+58. Emotion Daydreaming. görseli oluştur.
+59. Emotion Hopeless. görseli oluştur.
+60. Emotion Affectionate. görseli oluştur.
+61. Emotion Compassionate. görseli oluştur.
+62. Emotion Hateful. görseli oluştur.
+63. Emotion Soulful Sorrow. görseli oluştur.
+64. Emotion Crying with Joy. görseli oluştur.
+65. Emotion Overthinking. görseli oluştur.
+66. Emotion Present-focused. görseli oluştur.
+67. Emotion Lost in Thought. görseli oluştur.
+68. Emotion: Vengeful. görseli oluştur.
+69. Emotion Suspicious. görseli oluştur.
+70. Emotion Carefree. görseli oluştur.
+71. Emotion In the Flow. görseli oluştur.
+72. Emotion Enlightened. görseli oluştur.
 '''
 
 # Satırları listeye dönüştür
@@ -56,7 +103,7 @@ for prompt in prompt_listesi:
     time.sleep(1)
     pyautogui.click(x=1080, y=955)
     time.sleep(10)
-    pyautogui.click(x=1047, y=911)
+    pyautogui.click(x=683, y=911)
     time.sleep(1)
     keyboard.send("ctrl+a")
     time.sleep(1)
